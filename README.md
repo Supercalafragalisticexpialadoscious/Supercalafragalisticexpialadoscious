@@ -8,7 +8,7 @@
 Supercalafragalisticexpialadoscious/Supercalafragalisticexpialadoscious is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-This is a ridiculaous name but the only one left in the cyber universe, judging by the number of options available. To work...
+This is a ridiculous name but appears to be the only one left in the cyber universe, judging by the number of options available. To work...
 
 - 👀 I’m interested in ...
 Well, not an easy question to answer in one part but here goes:
@@ -25,10 +25,10 @@ To summarise, l;ogic and rule (cyber equivalent to electricity and matter) inter
 Now to answer the original question (...👀 I'm interested in) here is a more serious answer - identifying mechanisms which reduce the index of reuse of logic by 100%. 
 
 🌱 I’m currently learning ...
-I have spent more time than most people are alive pursuing the abjective. Using metaobjects realised from basic atomic components, it can be demonstrated that an infinite number of structural phenotypes (Whew) can be realised using a finite number of logic componets - indexing is the secret! In essence, the focus is to do to logic (transitional aspect) what normalisation has done to rule (persistent aspect). Still learning how to make it more understandable. 
+I have spent more time than most people pursuing the abjective. Using metaobjects realised from basic atomic components, it can be demonstrated that an infinite number of structural phenotypes (Whew) can be realised using a finite number of logic components (let's not discuss data management and normalisation in this discourse)- indexing is the secret! In essence, the focus is to do to logic (transitional aspect) what normalisation has done to rule (persistent aspect). Still learning how to make it more understandable. 
 
 💞️ I’m looking to collaborate on ...
-Well, here it becomes vague. The concept has been tested in a PhD, the executable provides output as would be expected, but explaining the 'engine' is really hard!  The problem is the work has been done in isolation. I have a limited understanding of mainstream terminology, and invented terms are not grasped by the reciepients. I would really appreciate an informal soundboard with an academic / industry specialist to classify the work. Who knows, it may be of vaue. What I can say is market products make use of existing structures, templates and generators. This approach was discarded in the 90's - granularity was too rough. Final approach as mentioned above can cated for subtypes, recusion and iterative requirements. Enough!
+Well, here it becomes vague. The concept has been tested in a PhD, the executable provides output as would be expected, explaining the 'engine' is really hard!  The problem is the work has been done in isolation. I have a limited understanding of mainstream terminology, and invented terms are not grasped by the recipients.  An informal soundboard with an academic / industry specialist to classify the work would really be appreciated. Who knows, it may be of value. What can be said is current understanding of market products indicates that they largely make use of existing structures, templates and generators. This approach was discarded in the 90's - granularity was too rough.  Final approach as mentioned above has an absolute granularity in terms of the reuse of logic and can cater for subtypes, recusion and iterative requirements. Enough!
 
 - 📫 How to reach me ...
 - robertwilliamlemke@yahoo.com
