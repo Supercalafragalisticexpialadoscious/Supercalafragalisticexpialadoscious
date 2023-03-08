@@ -8,11 +8,12 @@
 Supercalafragalisticexpialadoscious/Supercalafragalisticexpialadoscious is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-This is a ridiculous name but appears to be the only one left in the cyber universe, judging by the number of options available. To work...
+This is a ridiculous name but appears to be the only option left in the cyber universe!
 
 - 👀 I’m interested in ...
 Well, not an easy question to answer in one part but here goes:
-Proving Brooke's wrong!
+
+"Removing software development from the red line in project planning".... (Sorry Prof. Brooks)
 
 Now with that behind us, the obvious question is how can we do this. Answer is obvious:
 - get rid of duplication in all its forms(not to be confused with replication).  
